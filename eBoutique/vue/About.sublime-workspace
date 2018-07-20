@@ -1,0 +1,534 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Num",
+				"NumberLine"
+			],
+			[
+				"ch",
+				"chargerNom"
+			],
+			[
+				"text",
+				"text_Input"
+			],
+			[
+				"in",
+				"inp_pu"
+			],
+			[
+				"inp",
+				"inp_desi"
+			],
+			[
+				"inp_",
+				"inp_lib"
+			],
+			[
+				"txt",
+				"txt_id"
+			],
+			[
+				"des",
+				"destroy_window"
+			],
+			[
+				"lis",
+				"list_libele"
+			],
+			[
+				"li",
+				"list_libele"
+			],
+			[
+				"list",
+				"list_libele"
+			],
+			[
+				"rech",
+				"recherche"
+			],
+			[
+				"su",
+				"Produit_support"
+			],
+			[
+				"inse",
+				"inserer"
+			],
+			[
+				"bt",
+				"btn_enre"
+			],
+			[
+				"qua",
+				"quan"
+			],
+			[
+				"list_p",
+				"list_pt"
+			],
+			[
+				"chargerP",
+				"chargerPrixTotal"
+			],
+			[
+				"char",
+				"chargerPrixTotal"
+			],
+			[
+				"cha",
+				"chargerPrix"
+			],
+			[
+				"ex",
+				"execute"
+			],
+			[
+				"se",
+				"seconde"
+			],
+			[
+				"Inven",
+				"Inventaire_support"
+			],
+			[
+				"L",
+				"Login_support"
+			],
+			[
+				"Gra",
+				"GraduerChiffre"
+			],
+			[
+				"LABE",
+				"LABEL_CADRE"
+			],
+			[
+				"sqlite",
+				"sqlite3"
+			],
+			[
+				"t",
+				"text"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mai",
+				"main"
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"fa",
+				"famille"
+			],
+			[
+				"broder",
+				"border-radius"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"exp",
+				"experience"
+			],
+			[
+				"mo",
+				"moyen"
+			],
+			[
+				"dom",
+				"domaine"
+			],
+			[
+				"doc",
+				"doc2"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"gl",
+				"glyphicon-home"
+			],
+			[
+				"gly",
+				"glyphicon"
+			],
+			[
+				"glyphicon-",
+				"glyphicon-book"
+			],
+			[
+				"pa",
+				"param1"
+			],
+			[
+				"encode",
+				"encodeURIComponent"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"padin",
+				"padding-left"
+			],
+			[
+				"pading",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"re",
+				"rebour"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"tm",
+				"tmpi"
+			],
+			[
+				"tmp",
+				"tmpf"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"shad",
+				"box-shadow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"cl",
+				"clientY"
+			],
+			[
+				"cpa",
+				"capt1"
+			],
+			[
+				"cli",
+				"click"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"id",
+				"id_classe"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"hy",
+				"hydrate"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"db",
+				"dbConnect"
+			],
+			[
+				"spl_",
+				"spl_autoload_register"
+			],
+			[
+				"print",
+				"print_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/zcorp/Desktop/Main.py",
+		"/home/zcorp/Desktop/Entre.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Accueil.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Inventaire.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Produit.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Login.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Employe.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Vendre.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Accueil_support.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Inventaire_support.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Vendre_support.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Login_support.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Main.py",
+		"/home/zcorp/Documents/python/projects/Boutique/data_base.py",
+		"/home/zcorp/Documents/python/projects/Boutique/MainWindow.py",
+		"/home/zcorp/Documents/python/projects/Boutique/Fonctions.py",
+		"/home/zcorp/Documents/python/projects/FastKeyWrap/MainWindow.py",
+		"/home/zcorp/Documents/python/projects/BurkinaMap/carte.py",
+		"/home/zcorp/Documents/python/projects/BurkinaMap/expression.zcorp",
+		"/home/zcorp/Desktop/INITBOOT/mon_style.css",
+		"/home/zcorp/Desktop/INITBOOT/index.html",
+		"/home/zcorp/Documents/python/script/palette.py",
+		"/home/zcorp/Documents/python/script/index.html",
+		"/home/zcorp/Documents/python/script/index",
+		"/home/zcorp/Documents/javaScript/noteJS.html",
+		"/home/zcorp/Documents/javaScript/script.html",
+		"/opt/lampp/htdocs/javascript/ajax.php",
+		"/opt/lampp/htdocs/javascript/ajax_cible.php",
+		"/home/zcorp/Documents/python/script/test.py",
+		"/home/zcorp/Documents/python/script/note.py",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/index.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme1/index.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/partenaire.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/domaine.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/moyen.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/experience.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/contact.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/situation.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/apropos.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/reseau.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme3/eventre/gallery-two.html",
+		"/home/zcorp/Documents/Project_JC/THEMES/theme2/index.html",
+		"/home/zcorp/Documents/ki/site/index.html",
+		"/opt/lampp/htdocs/projet_jc/arcop1/index.php",
+		"/opt/lampp/htdocs/projet_jc/arcop1/bootstrap/js/js.js",
+		"/home/zcorp/Documents/javaScript/Keyboard_Wrapper/materialize/js/zcorp.js",
+		"/home/zcorp/Documents/javaScript/Keyboard_Wrapper/materialize/css/zcorp.css",
+		"/home/zcorp/Documents/javaScript/Keyboard_Wrapper/FastKeyWrap.html",
+		"/home/zcorp/Documents/javaScript/Keyboard_Wrapper/tester.html",
+		"/home/zcorp/Documents/ki/jc.html",
+		"/home/zcorp/Downloads/india/index.html",
+		"/home/zcorp/Downloads/india/materialize/css/style.css",
+		"/home/zcorp/Documents/javaScript/suivi/script.html",
+		"/home/zcorp/Documents/python/logitech.py",
+		"/home/zcorp/Documents/python/drawCan.py",
+		"/home/zcorp/Documents/python/triangleColor.py",
+		"/home/zcorp/Documents/python/note.py",
+		"/home/zcorp/Documents/python/etoileIsocel.py",
+		"/home/zcorp/Desktop/ecole.sql",
+		"/media/zcorp/8EBD-6A5B/script table.sql",
+		"/opt/lampp/htdocs/kwakwato/index.php",
+		"/opt/lampp/htdocs/kwakwato/vue/Personnage.class.php",
+		"/opt/lampp/htdocs/kwakwato/vue/ManagerPersonnage.class.php",
+		"/opt/lampp/htdocs/kwakwato/Personnage.class.php",
+		"/opt/lampp/htdocs/kwakwato/personnage.php",
+		"/opt/lampp/htdocs/kwakwato/Personne.class.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "About.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
